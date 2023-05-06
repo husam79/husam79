@@ -1,8 +1,5 @@
 ### Husam Burhan's profile
 
-I'm an iOS Developer comming from backend-development world.
+I am a backend developer with expertise in TypeScript, JavaScript, NodeJS, and ASP.NET Core. I have hands-on experience working with Docker for containerization and deployment. Additionally, I am skilled in working with databases like MySQL and PostgreSQL, and the Linux operating system. 
 
-
-- I’m currently working on Magic Math Worksheets app.
-- I’m currently learning advanced techniqs on Swift/SwiftUI.
-
+In my spare time, I enjoy exploring the iOS world and learning about SwiftUI.
